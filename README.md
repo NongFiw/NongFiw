@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hi there, I'm Naphat Niamtham 👋
 
-<!--
-**NongFiw/NongFiw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20my%20Profile!&fontSize=50" />
+</div>
 
-Here are some ideas to get you started:
+### 👨‍💻 About Me
+* 🎓 3rd-year Computer Science Student passionate about software development and building impactful solutions.
+* 🔭 Currently focused on Full-stack Web Development, System Architecture, and IoT integrations.
+* 🌱 Deep diving into advanced Front-end frameworks and efficient backend structures.
+* 💬 Ask me about: **Java, Web Development (HTML/CSS/Bootstrap), and Arduino/ESP32**.
+* 📫 Reach me at: garfieldnaphat111@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech Stack & Tools
+
+<p align="left">
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" alt="Arduino" />
+</p>
+
+---
+
+### 🚀 Highlighted Projects
+
+* 🍽️ **SavePlate:** A comprehensive food waste management platform focusing on sustainable business solutions, complete with workflow diagrams and system conversions.
+* 🍳 **Drag a rai dee:** A collaborative recipe suggestion website designed with clean UI and user-centric features.
+* 💡 **IoT Smart LED Controller:** Hardware integration project utilizing an ESP32 board focusing on touch interrupts and automated control systems.
+
+---
+
+### 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=[ใส่_Username_GitHub_ของคุณ]&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[ใส่_Username_GitHub_ของคุณ]&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
