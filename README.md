@@ -1,4 +1,6 @@
+<div align="center">
 # Hi there, I'm Naphat Niamtham 👋
+</div>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
@@ -23,7 +25,7 @@
 
 ---
 
-## 💻 Tech Stack 
+### 💻 Tech Stack 
 
 #
 
