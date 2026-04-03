@@ -24,7 +24,7 @@
 ---
 
 ### 💻 Tech Stack 
-...
+<img src="https://upload.wikimedia.org/wikipedia/commons/e/e4/Color-gray.png" width="100%" height="1" />
 ### Tools
 
 <p align="left">
