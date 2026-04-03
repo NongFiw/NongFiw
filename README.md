@@ -74,6 +74,17 @@ I'm Naphat Niamtham 👋
   
 ---
 
+### Artificial Intelligence
+
+<p align="left">
+   <img src="https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT" />
+   <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude" />
+   <img src="https://img.shields.io/badge/github_copilot-8957E5?style=for-the-badge&logo=github-copilot&logoColor=white" alt="GithubCopilot" />
+   <img src="https://img.shields.io/badge/google%20gemini-8E75B2?style=for-the-badge&logo=google%20gemini&logoColor=white" alt="Gemini" />
+  </p>
+  
+---
+
 ### 🚀 Highlighted Projects
 
 * 🍽️ **SavePlate:** A comprehensive food waste management platform focusing on sustainable business solutions, complete with workflow diagrams and system conversions.
