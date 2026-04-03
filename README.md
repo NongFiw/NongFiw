@@ -25,7 +25,9 @@
 
 ### 💻 Tech Stack 
 
-***
+<p align="left">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2" width="100%"/>
+</p>
 
 ### Tools
 
