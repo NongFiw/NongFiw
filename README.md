@@ -1,5 +1,5 @@
 <h1 align="center">
-I'm Naphat Niamtham(Garfield) 👋
+👋 I'm Naphat Niamtham (Garfield)
 </h1>
 
 <div align="center">
