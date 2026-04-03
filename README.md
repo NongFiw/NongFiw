@@ -13,6 +13,14 @@
 
 ---
 
+### 🌐 Connect With Me
+
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/[gariflednaphat])
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/[gar_ffield])
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:[garfieldnaphat111@gmail.com])
+
+---
+
 ### 🛠️ Tech Stack & Tools
 
 <p align="left">
