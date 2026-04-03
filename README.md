@@ -24,7 +24,7 @@
 ---
 
 ### 💻 Tech Stack 
-_
+...
 ### Tools
 
 <p align="left">
