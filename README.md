@@ -19,12 +19,6 @@
 
 ---
 
-<div align="center">
-  <img src="https://github-readme-quotes.vercel.app/quote?theme=tokyonight&border_radius=8" alt="Dev Quote" />
-</div>
-
----
-
 ### 💻 Highlighted Projects
 
 🚗 **[Smart Parking Reservation System](https://github.com/NongFiw/parking_system)**
