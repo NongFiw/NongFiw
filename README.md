@@ -21,7 +21,7 @@
 
 ### 💻 Highlighted Projects
 
-🚗 **[Smart Parking Reservation System](https://github.com/your-username/repo-link)**
+🚗 **[Smart Parking Reservation System](https://github.com/NongFiw/parking_system)**
 > A comprehensive web platform for real-time parking tracking and booking, integrating a seamless user interface with backend database management.
 > <br> **Tech:** `Java` `MySQL` `JavaScript` `HTML/CSS`
 
