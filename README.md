@@ -100,9 +100,4 @@
 * 💡 **IoT Smart LED Controller:** Hardware integration project utilizing an ESP32 board focusing on touch interrupts and automated control systems.
 
 ---
-
-### 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NongFiw&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
