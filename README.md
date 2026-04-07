@@ -23,15 +23,12 @@
 
 🚗 **[Smart Parking Reservation System](https://github.com/NongFiw/parking_system)**
 > A comprehensive web platform for real-time parking tracking and booking, integrating a seamless user interface with backend database management.
-> <br> **Tech:** `Java` `MySQL` `JavaScript` `HTML/CSS`
 
 📸 **[Library Facial Recognition Access System](https://github.com/your-username/repo-link)**
 > Built an automated library entry system utilizing Python and OpenCV for accurate real-time face detection, improving access speed and logging accuracy.
-> <br> **Tech:** `Python` `OpenCV` `Computer Vision` `SQL`
 
 🔐 **[Password Strength Checker](https://github.com/your-username/repo-link)**
 > Created a dynamic web application focusing on secure user inputs, featuring real-time visual feedback and complex logic validation.
-> <br> **Tech:** `JavaScript` `RegEx` `HTML5` `CSS3`ms.
 
 ---
 
