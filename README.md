@@ -6,9 +6,12 @@
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=25&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=3rd-year+Computer+Science+Student;Software+Developer;UNIVERSITY+HUACHIEW+CHALERMPRAKIET" alt="Typing SVG" />
   </a>
-</div>
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=nongfiw&label=PROFILE%20VIEWS&countColor=%23263238&style=flat-square)
+  
+</div>
+
+
 ##
 
 #  About Me
