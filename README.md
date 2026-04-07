@@ -32,6 +32,14 @@
 
 ---
 
+<div align="center">
+  <a href="https://nongfiw.github.io/PortFolio/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_Visit_My_Portfolio-181717?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio Website"/>
+  </a>
+</div>
+
+---
+
 ###  Connect With Me
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/garfield.naphat)
