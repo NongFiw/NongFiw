@@ -24,7 +24,7 @@
 🚗 **[Smart Parking Reservation System](https://github.com/NongFiw/parking_system)**
 > A comprehensive web platform for real-time parking tracking and booking, integrating a seamless user interface with backend database management.
 
-📸 **[Library Facial Recognition Access System](https://github.com/your-username/repo-link)**
+📸 **[Library Facial Recognition Access System](https://github.com/NongFiw/library_face_recognition)**
 > Built an automated library entry system utilizing Python and OpenCV for accurate real-time face detection, improving access speed and logging accuracy.
 
 🔐 **[Password Strength Checker](https://github.com/NongFiw/PasswordCheck)**
