@@ -10,7 +10,7 @@
 
 ##
 
-### 👨‍💻 About Me
+#  About Me
 * 🎓 3rd-year Computer Science Student passionate about software development and building impactful solutions.
 * 🔭 Currently focused on Full-stack Web Development, System Architecture, and IoT integrations.
 * 🌱 Deep diving into advanced Front-end frameworks and efficient backend structures.
