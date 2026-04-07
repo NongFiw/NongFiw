@@ -18,6 +18,10 @@
 * 📫 Reach me at: garfieldnaphat111@gmail.com
 
 ---
+<div align="center">
+  <img src="https://github-readme-joke.vercel.app/joke?theme=tokyonight" alt="Dev Joke" />
+</div>
+---
 
 ### 💻 Highlighted Projects
 
