@@ -32,18 +32,6 @@
 
 ---
 
-<div align="center">
-  <a href="https://nongfiw.github.io/PortFolio/" target="_blank">
-    <img src="https://img.shields.io/badge/🌐_Visit_My_Portfolio-181717?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio Website"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://drive.google.com/file/d/1n6oMv_ptwLh_7O3wZmL7Arrl-rGqfTGM/view?usp=sharing" target="_blank">
-    <img src="https://img.shields.io/badge/📄_View_My_Resume-0078D4?style=for-the-badge&logo=googledrive&logoColor=white" alt="My Resume"/>
-  </a>
-</div>
-
----
-
 ###  Connect With Me
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/garfield.naphat)
@@ -116,5 +104,17 @@
    <img src="https://img.shields.io/badge/google%20gemini-8E75B2?style=for-the-badge&logo=google%20gemini&logoColor=white" alt="Gemini" />
   </p>
   
+---
+
+<div align="center">
+  <a href="https://nongfiw.github.io/PortFolio/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_Visit_My_Portfolio-181717?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio Website"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://drive.google.com/file/d/1n6oMv_ptwLh_7O3wZmL7Arrl-rGqfTGM/view?usp=sharing" target="_blank">
+    <img src="https://img.shields.io/badge/📄_View_My_Resume-0078D4?style=for-the-badge&logo=googledrive&logoColor=white" alt="My Resume"/>
+  </a>
+</div>
+
 ---
 </p>
