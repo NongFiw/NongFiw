@@ -27,7 +27,7 @@
 📸 **[Library Facial Recognition Access System](https://github.com/your-username/repo-link)**
 > Built an automated library entry system utilizing Python and OpenCV for accurate real-time face detection, improving access speed and logging accuracy.
 
-🔐 **[Password Strength Checker](https://github.com/your-username/repo-link)**
+🔐 **[Password Strength Checker](https://github.com/NongFiw/PasswordCheck)**
 > Created a dynamic web application focusing on secure user inputs, featuring real-time visual feedback and complex logic validation.
 
 ---
