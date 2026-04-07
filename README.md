@@ -19,6 +19,22 @@
 
 ---
 
+### 💻 Highlighted Projects
+
+🚗 **[Smart Parking Reservation System](https://github.com/your-username/repo-link)**
+> A comprehensive web platform for real-time parking tracking and booking, integrating a seamless user interface with backend database management.
+> <br> **Tech:** `Java` `MySQL` `JavaScript` `HTML/CSS`
+
+📸 **[Library Facial Recognition Access System](https://github.com/your-username/repo-link)**
+> Built an automated library entry system utilizing Python and OpenCV for accurate real-time face detection, improving access speed and logging accuracy.
+> <br> **Tech:** `Python` `OpenCV` `Computer Vision` `SQL`
+
+🔐 **[Password Strength Checker](https://github.com/your-username/repo-link)**
+> Created a dynamic web application focusing on secure user inputs, featuring real-time visual feedback and complex logic validation.
+> <br> **Tech:** `JavaScript` `RegEx` `HTML5` `CSS3`ms.
+
+---
+
 ###  Connect With Me
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/garfield.naphat)
@@ -91,13 +107,5 @@
    <img src="https://img.shields.io/badge/google%20gemini-8E75B2?style=for-the-badge&logo=google%20gemini&logoColor=white" alt="Gemini" />
   </p>
   
----
-
-### 🚀 Highlighted Projects
-
-* 🍽️ **SavePlate:** A comprehensive food waste management platform focusing on sustainable business solutions, complete with workflow diagrams and system conversions.
-* 🍳 **Drag a rai dee:** A collaborative recipe suggestion website designed with clean UI and user-centric features.
-* 💡 **IoT Smart LED Controller:** Hardware integration project utilizing an ESP32 board focusing on touch interrupts and automated control systems.
-
 ---
 </p>
