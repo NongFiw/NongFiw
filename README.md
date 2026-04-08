@@ -18,7 +18,7 @@
 *  3rd-year Computer Science Student passionate about software development and building impactful solutions.
 *  Currently focused on Full-stack Web Development, System Architecture, and IoT integrations.
 *  Deep diving into advanced Front-end frameworks and efficient backend structures.
-*  Ask me about: **Java, Web Development (HTML/CSS/Bootstrap), and Arduino/ESP32**.
+*  Ask me about: **JavaScript, Web Development (HTML/CSS/Bootstrap), and Arduino/ESP32**.
 * 📫 Reach me at: 661673@hcu.ac.th
 
 <div align="center">
