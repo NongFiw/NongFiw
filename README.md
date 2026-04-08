@@ -15,12 +15,20 @@
 ##
 
 #  About Me
-* 🎓 3rd-year Computer Science Student passionate about software development and building impactful solutions.
-* 🔭 Currently focused on Full-stack Web Development, System Architecture, and IoT integrations.
-* 🌱 Deep diving into advanced Front-end frameworks and efficient backend structures.
-* 💬 Ask me about: **Java, Web Development (HTML/CSS/Bootstrap), and Arduino/ESP32**.
+*  3rd-year Computer Science Student passionate about software development and building impactful solutions.
+*  Currently focused on Full-stack Web Development, System Architecture, and IoT integrations.
+*  Deep diving into advanced Front-end frameworks and efficient backend structures.
+*  Ask me about: **Java, Web Development (HTML/CSS/Bootstrap), and Arduino/ESP32**.
 * 📫 Reach me at: 661673@hcu.ac.th
-
+<div align="center">
+  <a href="https://nongfiw.github.io/PortFolio/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_Visit_My_Portfolio-181717?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio Website"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://drive.google.com/file/d/1n6oMv_ptwLh_7O3wZmL7Arrl-rGqfTGM/view?usp=sharing" target="_blank">
+    <img src="https://img.shields.io/badge/📄_View_My_Resume-0078D4?style=for-the-badge&logo=googledrive&logoColor=white" alt="My Resume"/>
+  </a>
+</div>
 ---
 
 ### 💻 Highlighted Projects
@@ -108,19 +116,5 @@
    <img src="https://img.shields.io/badge/google%20gemini-8E75B2?style=for-the-badge&logo=google%20gemini&logoColor=white" alt="Gemini" />
   </p>
   
----
-
-### PortFolio & Resume
-
-<div align="center">
-  <a href="https://nongfiw.github.io/PortFolio/" target="_blank">
-    <img src="https://img.shields.io/badge/🌐_Visit_My_Portfolio-181717?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio Website"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://drive.google.com/file/d/1n6oMv_ptwLh_7O3wZmL7Arrl-rGqfTGM/view?usp=sharing" target="_blank">
-    <img src="https://img.shields.io/badge/📄_View_My_Resume-0078D4?style=for-the-badge&logo=googledrive&logoColor=white" alt="My Resume"/>
-  </a>
-</div>
-
 ---
 </p>
