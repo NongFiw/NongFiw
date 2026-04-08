@@ -54,7 +54,7 @@
 
 ---
 
-### 💻 Tech Stack 
+# 💻 Tech Stack 
 
 #
 
