@@ -26,7 +26,7 @@
     <img src="https://img.shields.io/badge/🌐_Visit_My_Portfolio-181717?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio Website"/>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://drive.google.com/file/d/1n6oMv_ptwLh_7O3wZmL7Arrl-rGqfTGM/view?usp=sharing" target="_blank">
+  <a href="https://drive.google.com/file/d/1Yn8XwTzGEgGKb2sCE1SfNuMy7-8vJYrK/view?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/📄_View_My_Resume-0078D4?style=for-the-badge&logo=googledrive&logoColor=white" alt="My Resume"/>
   </a>
 </div>
